@@ -1,0 +1,53 @@
+h3 {
+  margin: 50px auto 30px;
+}
+
+#main {
+  background-color: #EEEEEE;
+  text-align: center;
+  line-height: 2;
+}
+
+div {
+  background-color: White;
+  margin: auto;
+}
+
+.h1 {
+  background-color: #EEEEEE;
+  margin: 50px auto 30px;
+}
+
+.list {
+  background-color: #EEEEEE;
+  text-align: center;
+  margin: 16px 0;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  font-size: 1.2rem;
+}
+
+#tribute-info {
+  background-color: #EEEEEE;
+}
+
+.qoute {
+  text-align: center;
+  margin: 0 auto 50px auto;
+  width: 550px;
+  font-style: italic;
+  font-size: 1.2rem;
+  background-color: #EEEEEE;
+}
+#image {
+  max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+
+}
